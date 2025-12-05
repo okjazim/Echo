@@ -1,4 +1,4 @@
-# Echo
+# Echo (Work In Progress)
 
 Echo is a Flutter application that allows users to browse, search, and download wallpapers. It features a settings page to adjust image resolution and set a download path. Users can also mark wallpapers as favorites and view them in a separate tab.
 
