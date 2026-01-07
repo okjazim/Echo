@@ -85,10 +85,6 @@ View all favorite wallpapers in the "Favorites" tab.
 
 - In Progress
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Important Note
 
 #### Debug Mode Only:
@@ -100,3 +96,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 flutter run --debug
 ```
 - Ensure that you have the necessary permissions granted in your device settings for the app to function correctly.
+
+## License
+This project is licensed under the **MIT License**.
+See [`LICENSE`](LICENSE) for details. © 2026 okjazim
+
+## References
+- To be added...
