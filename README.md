@@ -99,7 +99,7 @@ flutter run --debug
 
 ## License
 This project is licensed under the **MIT License**.
-See [`LICENSE`](LICENSE) for details. © 2026 okjazim
+See [`LICENSE`](LICENSE) for details.
 
 ## References
 - To be added...
